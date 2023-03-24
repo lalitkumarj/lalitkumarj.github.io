@@ -22,6 +22,6 @@ Topics include:
 
 Class sessions will be a mix of lecture and discussion of papers. There will be homeworks focused on implementing algorithms.
 
-Class Session: MW 1-2:30, Paccar Hall
+**Class Session: MW 1-2:30, Paccar Hall 490**
 
-Class website:
+Class website: lalitjain.com/aed
