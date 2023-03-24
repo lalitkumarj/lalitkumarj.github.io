@@ -2,7 +2,7 @@
 layout: default
 title: MKTG 596. PhD Seminar in Machine Learning: Adaptive Experimentation in Practice
 aed: active
-description: Notes and short essays by Jonathan McGlone, a Librarian, Front-End Developer, Digital Publisher, Project Manager, Music Enthusiast, and Web Noodler living and working in Michigan.
+description: AED Course Description
 ---
 # Adaptive Experimentation in Practice
 
