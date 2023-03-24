@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MKTG 596. PhD Seminar in Machine Learning: Adaptive Experimentation in Practice
+title: MKTG 596. PhD Seminar in Machine Learning. Adaptive Experimentation in Practice
 aed: active
 description: AED Course Description
 ---
