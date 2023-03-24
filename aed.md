@@ -25,3 +25,4 @@ Class sessions will be a mix of lecture and discussion of papers. There will be 
 **Class Session: MW 1-2:30, Paccar Hall 490**
 
 Class website: lalitjain.com/aed
+MyPlan link:  https://myplan.uw.edu/course/#/courses/MKTG596
