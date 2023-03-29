@@ -27,7 +27,7 @@ Class sessions will be a mix of lecture and discussion of papers. There will be 
 Class website: lalitjain.com/aed
 MyPlan link:  https://myplan.uw.edu/course/#/courses/MKTG596
 
-Class Notes: [Link](https://github.com/lalitkumarj/AEDClassNotes/blob/main/AEDClassNotes.pdf)
+Class Notes: [Link](https://github.com/lalitkumarj/AEDClassNotes/raw/main/AEDClassNotes.pdf)
 
 | Date | Lecture | Topics | Resources |
 | --- | --- | --- | --- |
