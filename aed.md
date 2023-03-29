@@ -26,3 +26,32 @@ Class sessions will be a mix of lecture and discussion of papers. There will be 
 
 Class website: lalitjain.com/aed
 MyPlan link:  https://myplan.uw.edu/course/#/courses/MKTG596
+
+Class Notes: Link
+
+| Date | Lecture | Topics | Resources |
+| --- | --- | --- | --- |
+| Mar 27 | Pillar 1 | A/B Testing, Lower bounds, SPRT |  |
+| Mar 29 | Pillar 2 | Multi-armed bandits  |  |
+| Apr 3 | Pillar 2 Continued |  |  |
+| Apr 5 | Pillar 3 | Multiple Hypothesis Testing |  |
+| Apr 10 | Anytime Confidence Intervals |  |  |
+| Apr 12 | Linear bandits |  |  |
+| Apr 17 | GUEST (?) - Experimental Interference |  |  |
+| Apr 19 | Bayesian Methods  | Thompson Sampling, Langevin Dynamics |  |
+| Apr 24 | Quantifying Uncertainty | Conformal Prediction |  |
+| Apr 26 | Contextual Bandits |  |  |
+| May 1 | Contextual Bandits |  |  |
+| May 3 | Offline Evaluation | Bias in Bandit experiments |  |
+| May 8 | Off-Policy Evaluation |  |  |
+| May 10 | Off-Policy Evaluation |  |  |
+| May 15 | Experimental Design |  |  |
+| May 17 | Experimental Design |  |  |
+| May 22 | Orthogonal ML |  |  |
+| May 24 | Orthogonal ML |  |  |
+| May 29 | Additional Topics |  |  |
+| May 31 | Additional Topics |  |  |
+|  |  |  |  |
+
+
+
