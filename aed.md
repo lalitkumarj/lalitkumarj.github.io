@@ -31,11 +31,11 @@ Class Notes: [Link](https://github.com/lalitkumarj/AEDClassNotes/raw/main/AEDCla
 
 | Date | Lecture | Topics | Resources |
 | --- | --- | --- | --- |
-| Mar 27 | Pillar 1 | A/B Testing, Lower bounds, SPRT |  |
+| Mar 27 | Pillar 1 | A/B Testing, Lower bounds, SPRT |  | [Sequential Analysis]()
 | Mar 29 | Pillar 2 | Multi-armed bandits  |  |
-| Apr 3 | Pillar 2 Continued |  |  |
-| Apr 5 | Pillar 3 | Multiple Hypothesis Testing |  |
-| Apr 10 | Anytime Confidence Intervals |  |  |
+| Apr 3 | Pillar 2 Continued | Multi-Armed Bandits  |  | [Bandit Algorithms](), [] 
+| Apr 5 |  | Anytime Confidence Intervals |  | [Peeking at A/B Tests](), [Time-uniform Chernoff bounds via nonnegative supermartingales](), 
+| Apr 10 |  | Pillar 3 Multiple Hypothesis Testing |  |
 | Apr 12 | Linear bandits |  |  |
 | Apr 17 | GUEST (?) - Experimental Interference |  |  |
 | Apr 19 | Bayesian Methods  | Thompson Sampling, Langevin Dynamics |  |
