@@ -31,11 +31,11 @@ Class Notes: [Link](https://github.com/lalitkumarj/AEDClassNotes/raw/main/AEDCla
 
 | Date | Lecture | Topics | Resources |
 | --- | --- | --- | --- |
-| Mar 27 | Pillar 1 | A/B Testing, Lower bounds, SPRT |  | [Sequential Analysis]()
-| Mar 29 | Pillar 2 | Multi-armed bandits  |  |
-| Apr 3 | Pillar 2 Continued | Multi-Armed Bandits  |  | [Bandit Algorithms](), [] 
-| Apr 5 |  | Anytime Confidence Intervals |  | [Peeking at A/B Tests](), [Time-uniform Chernoff bounds via nonnegative supermartingales](), 
-| Apr 10 |  | Pillar 3 Multiple Hypothesis Testing |  |
+| Mar 27 | Pillar 1                         | A/B Testing, Lower bounds, SPRT |  [Sequential Analysis](https://orbiscascade-washington.primo.exlibrisgroup.com/permalink/01ALLIANCE_UW/1juclfo/alma99153869880001452)|
+| Mar 29 | Pillar 2                         | Multi-armed bandits             |  
+| Apr 3  | Pillar 2 Continued               | Multi-Armed Bandits             | [Bandit Algorithms](https://tor-lattimore.com/downloads/book/book.pdf) |
+| Apr 5  | Anytime Confidence Intervals.    | Martingales, MSPRT              | [Peeking at A/B Tests](http://library.usc.edu.ph/ACM/KKD%202017/pdfs/p1517.pdf), [Time-uniform Chernoff bounds via nonnegative supermartingales](https://arxiv.org/pdf/1810.08240.pdf), 
+| Apr 10 | Pillar 3                         | Multiple Hypothesis Tests       |  
 | Apr 12 | Linear bandits |  |  |
 | Apr 17 | GUEST (?) - Experimental Interference |  |  |
 | Apr 19 | Bayesian Methods  | Thompson Sampling, Langevin Dynamics |  |
