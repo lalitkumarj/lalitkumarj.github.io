@@ -29,6 +29,12 @@ MyPlan link:  https://myplan.uw.edu/course/#/courses/MKTG596
 
 Class Notes: [Link](https://github.com/lalitkumarj/AEDClassNotes/raw/main/AEDClassNotes.pdf)
 
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
+
 | Date | Lecture | Topics | Resources |
 | --- | --- | --- | --- |
 | Mar 27  | Pillar 1                         | A/B Testing, Lower bounds, SPRT |  [Sequential Analysis](https://orbiscascade-washington.primo.exlibrisgroup.com/permalink/01ALLIANCE_UW/1juclfo/alma99153869880001452)|
@@ -71,7 +77,7 @@ Class Notes: [Link](https://github.com/lalitkumarj/AEDClassNotes/raw/main/AEDCla
 | :-------:| :-------:|
 | May 31 | Additional Topics |  |  |
 | :-------:| :-------:|
-
+{: .tablelines}
 
 
 
