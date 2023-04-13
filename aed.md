@@ -31,25 +31,25 @@ Class Notes: [Link](https://github.com/lalitkumarj/AEDClassNotes/raw/main/AEDCla
 
 | Date | Lecture | Topics | Resources |
 | --- | --- | --- | --- |
-| Mar 27 | Pillar 1                         | A/B Testing, Lower bounds, SPRT |  [Sequential Analysis](https://orbiscascade-washington.primo.exlibrisgroup.com/permalink/01ALLIANCE_UW/1juclfo/alma99153869880001452)|
+| Mar 27  | Pillar 1                         | A/B Testing, Lower bounds, SPRT |  [Sequential Analysis](https://orbiscascade-washington.primo.exlibrisgroup.com/permalink/01ALLIANCE_UW/1juclfo/alma99153869880001452)|
+| :------:| :-------:|
+| Mar 29  | Pillar 2                         | Multi-armed bandits             |  
+| :------:| :-------:|
+| Apr 3   | Pillar 2 Continued               | Multi-Armed Bandits             | [Bandit Algorithms](https://tor-lattimore.com/downloads/book/book.pdf) |
+| :------:| :-------:|
+| Apr 5   | Pillar 3                         | Martingales, MSPRT              | [Peeking at A/B Tests](http://library.usc.edu.ph/ACM/KKD%202017/pdfs/p1517.pdf), [Time-uniform Chernoff bounds via nonnegative supermartingales](https://arxiv.org/pdf/1810.08240.pdf), 
+| :------:| :-------:|
+| Apr 10  | Pillar 3 Continued               |Anytime Confidence Intervals/Least Squares       |  
+| :------:| :-------:|
+| Apr 12  | NO CLASS |                       |  |
+| :------:| :-------:|
+| Apr 17  | Linear Bandits                  |  OFUL                             | |
+| :------:| :-------:|
+| Apr 19  | Bayesian Methods                | Thompson Sampling, Langevin Dynamics |  |
+| :------:| :-------:|
+| Apr 24 | Quantifying Uncertainty          | Conformal Prediction |  |
 | :-------:| :-------:|
-| Mar 29 | Pillar 2                         | Multi-armed bandits             |  
-| :-------:| :-------:|
-| Apr 3  | Pillar 2 Continued               | Multi-Armed Bandits             | [Bandit Algorithms](https://tor-lattimore.com/downloads/book/book.pdf) |
-| :-------:| :-------:|
-| Apr 5  | Pillar 3    | Martingales, MSPRT              | [Peeking at A/B Tests](http://library.usc.edu.ph/ACM/KKD%202017/pdfs/p1517.pdf), [Time-uniform Chernoff bounds via nonnegative supermartingales](https://arxiv.org/pdf/1810.08240.pdf), 
-| :-------:| :-------:|
-| Apr 10 | Pillar 3 Continued                        |Anytime Confidence Intervals/Least Squares       |  
-| :-------:| :-------:|
-| Apr 12 | NO CLASS |  |  |
-| :-------:| :-------:|
-| Apr 17 | Linear Bandits |  |  |
-| :-------:| :-------:|
-| Apr 19 | Bayesian Methods  | Thompson Sampling, Langevin Dynamics |  |
-| :-------:| :-------:|
-| Apr 24 | Quantifying Uncertainty | Conformal Prediction |  |
-| :-------:| :-------:|
-| Apr 26 | Contextual Bandits |  |  |
+| Apr 26 | Contextual Bandits               | Policy Based vs Model Based |  |
 | :-------:| :-------:|
 | May 1 | Contextual Bandits |  |  |
 | :-------:| :-------:|
