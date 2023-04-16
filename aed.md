@@ -27,7 +27,12 @@ Class sessions will be a mix of lecture and discussion of papers. There will be 
 Class website: lalitjain.com/aed
 MyPlan link:  https://myplan.uw.edu/course/#/courses/MKTG596
 
-Class Notes: [Link](https://github.com/lalitkumarj/AEDClassNotes/raw/main/AEDClassNotes.pdf)
+Class Notes: [Link](https://github.com/lalitkumarj/AEDClassNotes/raw/main/main.pdf)
+
+**Homeworks**
+All homeworks should be completed in groups. You have 3 weeks to complete each homework. No late assignment will be accepted without prior consent from the Professor. 
+
+- Homework 1: Due at midnight May 8th. [Link](https://github.com/lalitkumarj/AEDClassNotes/raw/main/hw1.pdf)
 
 <style>
 .tablelines table, .tablelines td, .tablelines th {
