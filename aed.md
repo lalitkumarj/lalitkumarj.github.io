@@ -54,9 +54,9 @@ All homeworks should be completed in groups. You have 3 weeks to complete each h
 | :------:| :-------:|
 | Apr 12  | NO CLASS |                       |  |
 | :------:| :-------:|
-| Apr 17  | Linear Bandits                  |  OFUL                             | |
+| Apr 17  | Linear Bandits                  |  OFUL                             | Chapter 19,20 of the Bandit Book |
 | :------:| :-------:|
-| Apr 19  | Bayesian Methods                | Thompson Sampling, Langevin Dynamics |  |
+| Apr 19  | Bayesian Methods                | Thompson Sampling, Langevin Dynamics | (https://djrusso.github.io/docs/Learning_to_Optimize.pdf)[Learning to Optimize via Posterior Sampling], Chapters 35-36 of the Bandit Book |
 | :------:| :-------:|
 | Apr 24 | Quantifying Uncertainty          | Conformal Prediction |  |
 | :-------:| :-------:|
