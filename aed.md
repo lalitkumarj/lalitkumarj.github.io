@@ -58,7 +58,7 @@ All homeworks should be completed in groups. You have 3 weeks to complete each h
 | :------:| :-------:|
 | Apr 19  | Bayesian Methods                | Thompson Sampling, Langevin Dynamics | (https://djrusso.github.io/docs/Learning_to_Optimize.pdf)[Learning to Optimize via Posterior Sampling], Chapters 35-36 of the Bandit Book |
 | :------:| :-------:|
-| Apr 24 | Quantifying Uncertainty          | Conformal Prediction |  |
+| Apr 24 |Continue Thompson Sampline          | Thompson Sampling |  [In-Class Colab](https://colab.research.google.com/drive/1EwFiXq0xJVgBWX37LX2tL911Kj7zUtF7?usp=sharing)|
 | :-------:| :-------:|
 | Apr 26 | Contextual Bandits               | Policy Based vs Model Based |  |
 | :-------:| :-------:|
