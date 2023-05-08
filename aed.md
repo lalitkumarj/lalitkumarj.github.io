@@ -37,11 +37,13 @@ All homeworks should be completed in groups. You have 3 weeks to complete each h
 **Homeworks**
 Project drafts are due June 1st. Final versions are due June 9th. All projects should
 - Be 10-12 pages not including references (I recommend the Neurips Template files [here](https://nips.cc/Conferences/2020/PaperInformation/StyleFiles))
+- Have a summary abstract.
 - Have a problem statement and motivation. 
 - Have a thorough discussion of related works and background material.
 - Include major results/algorithms.
 - Have empirical evaluations.
 - Propose a new problem. 
+Merely summarizing papers will be unacceptable. I expect a narrative that ties existing works together.
 
 <style>
 .tablelines table, .tablelines td, .tablelines th {
