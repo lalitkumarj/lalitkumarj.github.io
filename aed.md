@@ -54,19 +54,19 @@ All homeworks should be completed in groups. You have 3 weeks to complete each h
 | :------:| :-------:|
 | Apr 12  | NO CLASS |                       |  |
 | :------:| :-------:|
-| Apr 17  | Linear Bandits                  |  OFUL                             | Chapter 19,20 of the Bandit Book |
+| Apr 17  | Linear Bandits                   |  Optimism and OFUL                             | Chapter 19,20 of the Bandit Book |
 | :------:| :-------:|
-| Apr 19  | Bayesian Methods                | Thompson Sampling, Langevin Dynamics | (https://djrusso.github.io/docs/Learning_to_Optimize.pdf)[Learning to Optimize via Posterior Sampling], Chapters 35-36 of the Bandit Book |
+| Apr 19  | Bayesian Methods                 | Thompson Sampling, Langevin Dynamics | [Learning to Optimize via Posterior Sampling](https://djrusso.github.io/docs/Learning_to_Optimize.pdf), Chapters 35-36 of the Bandit Book |
 | :------:| :-------:|
-| Apr 24 |Continue Thompson Sampline          | Thompson Sampling | [Colab Link](https://colab.research.google.com/drive/168C50Dm6CPy1SOpmU22pQi1gARkE9eYZ?usp=sharing) |
+| Apr 24 |Continue Thompson Sampling         | Thompson Sampling | [Colab Link](https://colab.research.google.com/drive/168C50Dm6CPy1SOpmU22pQi1gARkE9eYZ?usp=sharing) |
 | :-------:| :-------:|
-| Apr 26 | Contextual Bandits               | Policy Based vs Model Based |  |
+| Apr 26 | Posterior Sampling and Uncertainy Quantification  | |  |
 | :-------:| :-------:|
-| May 1 | Contextual Bandits |  |  |
+| May 1 | Contextual Bandits                 | Policy Based vs Model Based  | Handwritten Notes, Chapter 18 of Bandit Book  |
 | :-------:| :-------:|
-| May 3 | Offline Evaluation | Bias in Bandit experiments |  |
+| May 3 | Contextual Bandits                 | $\tau$-Greedy | [Notes by Alekh and Sham](https://courses.cs.washington.edu/courses/cse599m/19sp/), [Taming the Monster](https://arxiv.org/abs/1402.0555), [Instance Dependent Bounds](https://arxiv.org/abs/2207.02357) |
 | :-------:| :-------:|
-| May 8 | Off-Policy Evaluation |  |  |
+| May 8 | Contextual Bandits                 | SquareCB      | [Beyond UCB](https://arxiv.org/abs/2002.04926), [Bypassing the Monster](https://arxiv.org/abs/2003.12699), [Online Learning Notes](https://arxiv.org/abs/1912.13213), Prediction, Learning and Games Chapter 2 |
 | :-------:| :-------:|
 | May 10 | Off-Policy Evaluation |  |  |
 | :-------:| :-------:|
