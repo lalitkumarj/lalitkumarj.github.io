@@ -34,6 +34,15 @@ All homeworks should be completed in groups. You have 3 weeks to complete each h
 
 - Homework 1: Due at midnight May 8th. [Link](https://github.com/lalitkumarj/AEDClassNotes/raw/main/hw1.pdf)
 
+**Homeworks**
+Project drafts are due June 1st. Final versions are due June 9th. All projects should
+- Be 10-12 pages not including references (I recommend the Neurips Template files [here](https://nips.cc/Conferences/2020/PaperInformation/StyleFiles))
+- Have a problem statement and motivation. 
+- Have a thorough discussion of related works and background material.
+- Include major results/algorithms.
+- Have empirical evaluations.
+- Propose a new problem. 
+
 <style>
 .tablelines table, .tablelines td, .tablelines th {
         border: 1px solid black;
