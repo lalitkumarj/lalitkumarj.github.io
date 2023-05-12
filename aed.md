@@ -75,23 +75,21 @@ Merely summarizing papers will be unacceptable. I expect a narrative that ties e
 | :-------:| :-------:|
 | May 1 | Contextual Bandits                 | Policy Based vs Model Based  | Handwritten Notes, Chapter 18 of Bandit Book  |
 | :-------:| :-------:|
-| May 3 | Contextual Bandits                 | $\tau$-Greedy | [Notes by Alekh and Sham](https://courses.cs.washington.edu/courses/cse599m/19sp/), [Taming the Monster](https://arxiv.org/abs/1402.0555), [Instance Dependent Bounds](https://arxiv.org/abs/2207.02357) |
+| May 3 | Contextual Bandits                 | $\tau$-Greedy  | [Notes by Alekh and Sham](https://courses.cs.washington.edu/courses/cse599m/19sp/), [Taming the Monster](https://arxiv.org/abs/1402.0555), [Instance Dependent Bounds](https://arxiv.org/abs/2207.02357) |
 | :-------:| :-------:|
-| May 8 | Contextual Bandits                 | SquareCB      | [Beyond UCB](https://arxiv.org/abs/2002.04926), [Bypassing the Monster](https://arxiv.org/abs/2003.12699), [Online Learning Notes](https://arxiv.org/abs/1912.13213), Prediction, Learning and Games Chapter 2 |
+| May 8 | Contextual Bandits                 | SquareCB       | [Beyond UCB](https://arxiv.org/abs/2002.04926), [Bypassing the Monster](https://arxiv.org/abs/2003.12699), [Online Learning Notes](https://arxiv.org/abs/1912.13213), Prediction, Learning and Games Chapter 2 |
 | :-------:| :-------:|
-| May 10 | Off-Policy Evaluation |  |  |
+| May 10 | Off-Policy Evaluation             | IPS and Friends| [Course Notes](https://courses.cs.washington.edu/courses/cse599m/19sp/notes/off_policy.pdf), [Recsys 2021 Tutorial](https://sites.google.com/cornell.edu/recsys2021tutorial)  |
 | :-------:| :-------:|
 | May 15 | Guest Lecture |  |  |
 | :-------:| :-------:|
-| May 17 | Experimental Design |  |  |
+| May 17 | Bias in Bandit Feedback |  |  |
 | :-------:| :-------:|
 | May 22 | Orthogonal ML |  |  |
 | :-------:| :-------:|
 | May 24 | Orthogonal ML |  |  |
 | :-------:| :-------:|
-| May 29 | Additional Topics |  |  |
-| :-------:| :-------:|
-| May 31 | Additional Topics |  |  |
+| May 29/31 |Group Meetings |  |  |
 | :-------:| :-------:|
 {: .tablelines}
 
