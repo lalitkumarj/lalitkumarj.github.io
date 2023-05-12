@@ -61,7 +61,7 @@ Merely summarizing papers will be unacceptable. I expect a narrative that ties e
 | :------:| :-------:|
 | Apr 5   | Pillar 3                         | Martingales, MSPRT              | [Peeking at A/B Tests](http://library.usc.edu.ph/ACM/KKD%202017/pdfs/p1517.pdf), [Time-uniform Chernoff bounds via nonnegative supermartingales](https://arxiv.org/pdf/1810.08240.pdf), 
 | :------:| :-------:|
-| Apr 10  | Pillar 3 Continued               |Anytime Confidence Intervals/Least Squares       |  
+| Apr 10  | Pillar 3 Continued               |Anytime Confidence Intervals/Least Squares       |  [Spotify Blog Post](https://engineering.atspotify.com/2023/03/choosing-sequential-testing-framework-comparisons-and-discussions/)
 | :------:| :-------:|
 | Apr 12  | NO CLASS |                       |  |
 | :------:| :-------:|
