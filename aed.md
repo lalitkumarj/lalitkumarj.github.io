@@ -83,11 +83,11 @@ Merely summarizing papers will be unacceptable. I expect a narrative that ties e
 | :-------:| :-------:|
 | May 15 | Guest Lecture |  |  |
 | :-------:| :-------:|
-| May 17 | Bias in Bandit Feedback |  |  |
+| May 17 | NO CLASS |  |  |
 | :-------:| :-------:|
-| May 22 | Orthogonal ML |  |  |
+| May 22 | Non-Stationarity |  |  |
 | :-------:| :-------:|
-| May 24 | Orthogonal ML |  |  |
+| May 24 | Non-Stationarity |  |  |
 | :-------:| :-------:|
 | May 29/31 |Group Meetings |  |  |
 | :-------:| :-------:|
