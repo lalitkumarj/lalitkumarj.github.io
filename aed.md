@@ -33,8 +33,9 @@ Class Notes: [Link](https://github.com/lalitkumarj/AEDClassNotes/raw/main/main.p
 All homeworks should be completed in groups. You have 3 weeks to complete each homework. No late assignment will be accepted without prior consent from the Professor. 
 
 - Homework 1: Due at midnight May 8th. [Link](https://github.com/lalitkumarj/AEDClassNotes/raw/main/hw1.pdf)
+- Homework 2: Due at midnight June 4th. [Link](https://github.com/lalitkumarj/AEDClassNotes/raw/main/hw2.pdf), [Associated Jupyter Notebook](https://github.com/lalitkumarj/AEDClassNotes/raw/main/HW2.ipynb)
 
-**Homeworks**
+**Projects**
 Project drafts are due June 1st. Final versions are due June 9th. All projects should
 - Be 10-12 pages not including references (I recommend the Neurips Template files [here](https://nips.cc/Conferences/2020/PaperInformation/StyleFiles))
 - Have a summary abstract.
