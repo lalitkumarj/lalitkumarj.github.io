@@ -2,20 +2,26 @@
 layout: default
 title: Research
 research: active
-description: Lalit Jain's Research Page
+description: Lalit Jain's Publications Page
+
 ---
 <div class="container">
-<p>My research in machine learning is heavily motivated by a focus on efficient data collection in real world problems and applications in business contexts. </p> <br>
 <b>Preprints</b>
 <ul>
   <li>
-    <a href="https://arxiv.org/pdf/2207.02357">Instance-optimal PAC Algorithms for Contextual Bandits</a>. Z. Li, L. Ratliff, H. Nassif, K. Jamieson, L. Jain. Preprint.
+    <a href="https://arxiv.org/abs/2310.06069">Optimal Exploration is no harder than Thompson Sampling</a>. Z. Li, K. Jamieson, L. Jain
   </li>
   <li>
-    <a href="https://arxiv.org/pdf/2206.11183">Active Learning with Safety Constraints</a>. R. Camilleri, A. Wagenmaker, J. Morgenstern, L. Jain, K. Jamieson. Preprint.
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438537">Effective Adaptive Exploration of Prices and Promotions in Choice-Based Demand Models</a>. L. Jain, Z. Li, E. Loghmani, B. Mason, H. Yoganarasimhan
   </li>
   <li>
-    <a href="https://arxiv.org/pdf/1904.12994">Convergence rates for ordinal embedding</a>. J. Ellenberg, L. Jain. Preprint.
+    <a href="https://arxiv.org/abs/2310.04390">A/B Testing and Best-arm Identification for Linear Bandits with Robustness to Non-stationarity</a>. Z. Xiong, R. Camilleri, M. Fazel, L. Jain, K. Jamieson
+  </li>
+  <li>
+    <a href="https://arxiv.org/abs/2010.15382">Learning to Actively Learn: A Robust Approach</a>. J. Zhang, L. Jain, K. Jamieson 
+  </li>
+  <li>
+    <a href="https://arxiv.org/pdf/1904.12994">Convergence rates for ordinal embedding</a>. J. Ellenberg, L. Jain
   </li>
 </ul>
 
@@ -23,6 +29,18 @@ description: Lalit Jain's Research Page
 
 <b>Publications</b>
 <ul>
+  <li>
+    <a href="https://arxiv.org/abs/2310.04390">Experimental Designs for Heteroskedastic Variance</a>. J. Weltz, T. Fiez, A. Volfovsky, E. Laber, B. Mason, H. Nassif, K. Jamieson, L. Jain. Neurips 2023.
+  </li>
+  <li>
+    <a href="https://arxiv.org/abs/2310.04390">Sample-efficient identification of high-dimensional antibiotic synergy with a normalized diagonal sampling design</a>. J Brennan, L Jain, S Garman, AE Donnelly, ES Wright, K Jamieson PLoS computational biology 18(7) 2022
+  </li>
+  <li>
+    <a href="https://arxiv.org/pdf/2207.02357">Instance-optimal PAC Algorithms for Contextual Bandits</a>. Z. Li, L. Ratliff, H. Nassif, K. Jamieson, L. Jain. Neurips 2022.
+  </li>
+  <li>
+    <a href="https://arxiv.org/pdf/2206.11183">Active Learning with Safety Constraints</a>. R. Camilleri, A. Wagenmaker, J. Morgenstern, L. Jain, K. Jamieson. Neurips 2022.
+  </li>
   <li>
     <a href="https://arxiv.org/pdf/2111.01768">Nearly Optimal Algorithms for Level Set Estimation.</a> B. Mason, R. Camilleri, S. Mukherjee, K. Jamieson, R. Nowak, L. Jain. AISTATS 2022.
   </li>
@@ -81,127 +99,3 @@ description: Lalit Jain's Research Page
 
 
 
-<br> <p> The following gives descriptions of some recent projects.</p> <br>
-  
-<!-- BREAK BREAK BREAK -------------------------->
-<h4>Optimizing Crowdfunding</h4>
-<hr>
-<div class="row">
-    <div class="col-xs-8">
-      <p>In the Crowdfunding model, many users pledge a small amount of funding towards a common project which is funded if the total amount of the pledges exceeds a reserve price. The harsh reality of crowdfunding is that there are far more loans than lenders and the total budget of pledges available is very limited. Many bad projects don’t stand a chance at being funded, and it is a waste of precious impressions to even show them. Naive strategies that do not prioritize projects likely to reach the given price are doomed to only partially fund many projects, versus a preferred outcome of a moderate number fully funded to the reserve price.
-      <br>
-      <b>Problem: How do we match projects to users to result in the largest number of fully funded projects, versus the unfavored alternative of many partially funded projects?</b>
-      <br>
-      We are working closely with the nonprofit microlending site <a href="http://kiva.org">Kiva</a> to find ways ensuring that as many loans as possible are funded.
-      <br><br>
-      <b>Publication: <br><a href="http://proceedings.mlr.press/v80/jain18a/jain18a.pdf">Firing Bandits: Optimizing Crowdfunding</a>. L. Jain, K. Jamieson. ICML 2018.</b>
-      </p>
-    </div>
-
-    <div class="col-xs-4">
-      <img src="/img/kiva.jpeg" class="img-responsive"></img>
-    </div>
-</div>
-<br>
-<!-- BREAK BREAK BREAK -------------------------->
-<h4>Adaptive Multiple Testing</h4>
-<hr>
-<div class="row">
-    <div class="col-xs-8">
-      <p>We propose an adaptive sampling approach for multiple testing which aims to maximize statistical power while ensuring anytime false discovery control. Inspired by the multi-armed bandit literature, we provide an algorithm that takes as few samples as possible to exceed a target true positive proportion (i.e. proportion of actual positives discovered) while giving anytime control of the false discovery proportion (nulls predicted as actual positives).  Given the simplicity of the approach, and its sample efficiency, the method has promise for wide adoption in the biological sciences, clinical testing for drug discovery, and online A/B/n testing problems.
-      <br><br>
-      <b>Publication: <br> <a href="https://arxiv.org/abs/1809.02235">A Bandit Approach to Multiple Testing with False Discovery Control</a>.  K. Jamieson, L. Jain. NIPS 2018.</b>
-      </p>
-    </div>
-    <div class="col-xs-4">
-      <img src="https://homes.cs.washington.edu/~jamieson/resources/optimizely.png" class="img-responsive"></img>
-    </div>
-</div>
-<br>
-
-<!-- BREAK BREAK BREAK -------------------------->
-<h4>Learning From Similarity Judgements</h4>
-<hr>
-<div class="row">
-    <div class="col-xs-8">
-      <p>The goal of ordinal embedding (aka non-metric multidimensional scaling) and metric learning is to embed items as points given a set of constraints in the form of distance comparisons like “item A is closer to item C then item B”.  Such similarity judgements often arise from user studies similar to max-diff studies. Though similarity judgements have been a popular non-metric technique for over 40 years, there has been little to no analysis of the number of samples needed to learn a high-fidelity embedding. We provide the first practical sample complexity results, and also manage to show that ordinal embedding data is enough to <i>completely</i> give a geometric characterization of a set of items. The embeddings derived from our techniques can then be used for downstream machine learning tasks, or to determine which features most influence perception about the items. This work was developed in tandem with the Cognitive Psychology/Educational Departments at the University of Wisconsin.
-      <br>
-      <br>
-      <b>Publication: <br>
-        <a href="https://papers.nips.cc/paper/7002-learning-low-dimensional-metrics.pdf">Learning Low-Dimensional Metrics</a>, L. Jain, B. Mason, R. Nowak, NIPS 2017.<br>
-        <a href="http://arxiv.org/abs/1606.07081">Finite Sample Prediction and Recovery Bounds for Ordinal Embedding</a>, L. Jain, K. Jamieson, R. Nowak, NIPS 2016.
-      </b>
-
-      </p>
-    </div>
-    <div class="col-xs-4">
-      <img src="/img/embedding.png" class="img-responsive"></img><br>
-      <center><button class="btn btn-primary" onclick="https://youtu.be/ESXgbZQ1ZTk?t=1732"> Video on Metric Learning </button></center>
-    </div>
-</div>
-<br>
-
-<!-- BREAK BREAK BREAK -------------------------->
-<h4>Clustered Ranking</h4>
-<hr>
-<div class="row">
-    <div class="col-xs-8">
-      <p>We consider the problem of efficiently sorting items according to their means into clusters of pre-specified sizes, which we refer to as coarse ranking. In many big-data applications, finding the total ranking can be infeasible and/or unnecessary, and we may only be interested in the top items, bottom items, or quantiles. For example consider grading exams in a MOOC - it may be much easier to cluster papers by grades then build a total ranking over all of the exams. Our work on this project was motivated by a collaboration with James Evans and Nandana Sengupta at the University of Chicago to determine relative safety scores for neighborhoods.
-      <br>
-      <br>
-      <b>Publication: <br>
-        <a href="http://proceedings.mlr.press/v84/katariya18a/katariya18a.pdf">Adaptive Sampling for Coarse Ranking</a>, Sumeet Katariya, L. Jain, Nandana Sengupta, James Evans, Robert Nowak. AISTATS, 2018.
-      </b>
-      </p>
-    </div>
-    <div class="col-xs-4">
-      <img src="/img/clusteredranking.png" class="img-responsive"></img>
-    </div>
-</div>
-<br>
-
-<!-- BREAK BREAK BREAK -------------------------->
-<h4>Active Learning in the Wild</h4>
-<hr>
-<div class="row">
-    <div class="col-xs-8">
-      <p><a href="http://nextml.org">NEXT</a> is a computational framework and open-source machine learning system that simplifies the deployment and evaluation of active learning algorithms that use human feedback, e.g. from Mechanical Turk. The system is optimized for the real-time computational demands of active learning algorithms and built to scale to handle a crowd of workers any size. The system is for active learning researchers as well as practitioners who want to collect data adaptively. NEXT is currently being used by a variety of groups including American Family Insurance, the University of Wisconsin Psychology group and the Air Force Research Lab.
-      <br><br>
-      Each week, the New Yorker magazine runs a cartoon contest where readers are invited to submit a caption for that week's cartoon - thousands are submitted. The NEXT team has teamed up with Bob Mankoff, cartoon editor of the New Yorker, to use crowdsourcing and adaptive sampling techniques to help decide the <a href="http://nextml.org/captioncontest">caption contest winner</a> each week. This is an example of state-of-the-art active learning being implemented and evaluated in the real world using the NEXT system and the principles developed in that paper.
-      <br>
-      <br>
-      <b>Publication: <br>
-          <a href="https://papers.nips.cc/paper/5868-next-a-system-for-real-world-development-evaluation-and-application-of-active-learning">NEXT: A System for Real-World Development, Evaluation, and Application of Active Learning</a>, Kevin Jamieson, L. Jain, Chris Fernandez, Nick Glattard, Robert Nowak, NIPS, 2015.
-      </b>
-      </p>
-    </div>
-    <div class="col-xs-4">
-      <img src="https://homes.cs.washington.edu/~jamieson/resources/next_stack.png" class="img-responsive"></img><br>
-      <img src="https://homes.cs.washington.edu/~jamieson/resources/new_yorker_query.png" class="img-responsive"></img><br>
-      <center><button class="btn btn-primary" onclick="window.location='https://youtu.be/ESXgbZQ1ZTk?t=1732'"> Video Introduction to NEXT </button></center>
-    </div>
-</div>
-<br>
-<br>
-<br>
-
-
-<b> Previous Number Theory Work </b>
-<ul>
-  <li>
-    <a href="https://search.library.wisc.edu/catalog/9912229759002121"> On extending Artin's conjecture to composite moduli in function fields.</a> E. Eisenstein, L. Jain, W. Kuo. Accepted to Journal of Numer Theory, 2020
-  </li>
-  <br>
-  <li>
-    <a href="https://search.library.wisc.edu/catalog/9912229759002121">Big Mod &#8467; Monodromy for families of <i>G</i>-Covers</a>. Thesis Work.
-  </li>
-  <br>
-  <li>
-    <a href="http://arxiv.org/abs/1510.05795" target="_blank">Explicit computations of Hida families via overconvergent modular symbols</a>, Evan Dummit, Marton Hablicsek, L. Jain, Robert Pollack, and Daniel Ross. Accepted in Research in Number Theory. (<a href="http://arxiv.org/abs/1510.05795" target="_blank">arXiv</a>) (<a href="http://github.com/lalitkumarj/OMSCategory" target="_blank">GitHub</a>)
-  </li>
-  <br>
-  <li>
-    <a href="https://cs.uwaterloo.ca/journals/JIS/VOL8/Tzermias/tzermias5.pdf">Beukers’ integrals and Ap&eacute;ry’s recurrences</a>, L. Jain, Pavlos Tzermias, Journal of Integer Sequences. 8: Issue 1, Article 05.1.1., 2005
-  </li>
-</ul>
-</div>
